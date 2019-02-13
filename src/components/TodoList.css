@@ -3,4 +3,5 @@
   display: -webkit-flex;
   flex-wrap: wrap;
   flex-direction: column;
+  list-style-type: hiragana-iroha;
 }

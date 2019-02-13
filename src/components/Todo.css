@@ -1,0 +1,14 @@
+.Todo {
+  padding: 1vh 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Todo__button {
+  padding: 0 .5vw;
+  margin: 0 .5vw;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 16px;
+  background: #fff;
+  border: 1px ridge rgb(49, 127, 158);
+}
