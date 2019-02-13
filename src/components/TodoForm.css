@@ -1,0 +1,14 @@
+.TodoForm__input {
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.TodoForm__button {
+  cursor: pointer;
+  background: #fff;
+  border: 1px ridge rgb(49, 127, 158);
+  padding: 0 1vw;
+  margin: 0 1vw;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 16px;
+}
